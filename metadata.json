@@ -5,6 +5,9 @@
   "seller_fee_basis_points": 2000,
   "image": "https://bafybeidoaeoldxea6yqumy2p2gyweixm4jpbdwtvrlz5x6w4jiyxpwv3da.ipfs.dweb.link/0.gif?ext=gif",
   "attributes": [
+    {
+      "trait_type": "PASS",
+      "value": "Sniper"
     }
   ],
   "properties": {
